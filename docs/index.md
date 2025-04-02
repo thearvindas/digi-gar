@@ -2,7 +2,7 @@
 sidebar_position: 1
 ---
 
-# test
+# home
 
 Welcome to my digital garden! This is where I share my thoughts, learnings, and discoveries.
 

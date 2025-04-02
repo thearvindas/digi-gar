@@ -78,7 +78,7 @@ const config = {
         title: "arvin's digital garden",
         logo: {
           alt: 'My Site Logo',
-          src: 'img/logo.svg',
+          src: 'img/arvin-at-the-beach.jpeg',
           href: '/',
           target: '_self',
         },
