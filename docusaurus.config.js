@@ -10,7 +10,7 @@ import {themes as prismThemes} from 'prism-react-renderer';
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: "arvin's digital garden",
+  title: "arvin's curiosities repo",
   tagline: 'Dinosaurs are cool',
   favicon: 'img/favicon.ico',
 
@@ -76,7 +76,7 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: {
-        title: "arvin's digital garden",
+        title: "arvin's curiosities repo",
         logo: {
           alt: 'My Site Logo',
           src: 'img/arvin-at-the-beach.jpeg',

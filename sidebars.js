@@ -22,7 +22,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'What',
+      label: 'what',
       link: {
         type: 'doc',
         id: 'what/index',
@@ -36,7 +36,7 @@ const sidebars = {
     },
     {
       type: 'category',
-      label: 'Why',
+      label: 'why',
       link: {
         type: 'doc',
         id: 'why/index',

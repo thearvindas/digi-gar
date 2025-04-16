@@ -1,28 +1,13 @@
 ---
 sidebar_position: 1
-title: Home
+title: home
 ---
 
-# Welcome to My Digital Garden
+# my curiosities repo
 
-Welcome to my digital garden! This is where I share my thoughts, learnings, and discoveries.
+### I built this primarily for three reasons:
+- I'm just very curious about a lot of things. All the questions here are personal curiosities that I wanted answers for. 
+- I research to find out answers and then document them here. Documenting them in public forces me to articulate and write with as clarity as I can. Ideally, someone with a similar curiousity should look read my answer and be satisfied with the answer.
+- I like having my own space on the internet - a url I can send to others and say this is mine!
 
-## What you'll find here
-
-This is a markdown page that you can easily edit. Feel free to:
-- Add your own sections
-- Include code snippets
-- Share your thoughts
-- Link to other resources
-
-Open up [[docs/test.md]]
-[Go to Next Page](./test.md)
-
-## Quick Tips
-
-- Edit this file at `docs/index.md`
-- The site will automatically reload when you save changes
-- You can use all standard markdown features
-- You can also use **bold** and *italic* text
-
-Happy gardening! 🌱
+If you'd like, get in touch: thearvindas at gmail dot com
